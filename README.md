@@ -18,7 +18,7 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ### Updating to an individual-specific model (simulated data)
 
-![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BaysianWorkflow.pdf)
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BayesianWorkflow.pdf)
 
 ## Installation
 The model is written in Python 3. 
