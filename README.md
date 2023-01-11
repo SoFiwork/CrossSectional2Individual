@@ -18,7 +18,7 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ### Updating to an individual-specific model (simulated data)
 
-
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BayesianWorkflow.svg)
 
 ## Installation
 The model is written in Python 3. 
@@ -38,12 +38,17 @@ conda env create -f BayesianUpdating2023.yaml
 
 in the correct directory 
 
-## Demo 
+## Simulation demos 
 
-### Pipeline_IndividualModel_SimulatedIndividual.ipynb 
+summary of files used to generate the results presented in the corresponding publication 
 
 ### Pipeline_PopulationModel.ipynb
 
+implentation of the work steps illustrated under ``Calibration of the population-average model''
+
+### Pipeline_IndividualModel_SimulatedIndividual.ipynb 
+
+implentation of the work steps illustrated under ``Updating to an individual-specific model''
 
 ## License
 This model is licensed under the MIT License.
