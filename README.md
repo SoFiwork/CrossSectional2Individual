@@ -14,7 +14,7 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ### Calibration of the population-average model (cross-sectional data)
 
-![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.pdf)
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/Workflow.pdf)
 
 ### Updating to an individual-specific model (simulated data)
 
