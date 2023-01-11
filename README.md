@@ -6,11 +6,19 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.pdf)
 
-## workflow presented in the corresponding article 
+## Workflow
 1. calibration of population-average model
 2. reduce parameter space based on sensitivity analysis
 3. define prior parameter distributions based on a MCMC sampling applied on the population-average model
 4. update population parameters in a Bayesian approach -> individual parameter set 
+
+### Calibration of the population-average model (cross-sectional data)
+
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/Workflow.pdf)
+
+### Updating to an individual-specific model (simulated data)
+
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BaysianWorkflow.pdf)
 
 ## Description 
 Mathematical model of the female menstrual cycle that couples the dynamics between follicles and hormones.
