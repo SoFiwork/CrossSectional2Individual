@@ -14,11 +14,11 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ### Calibration of the population-average model (cross-sectional data)
 
-![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/Workflow.pdf)
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.pdf)
 
 ### Updating to an individual-specific model (simulated data)
 
-![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BayesianWorkflow.pdf)
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.pdf)
 
 ## Installation
 The model is written in Python 3. 
