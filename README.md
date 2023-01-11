@@ -1,8 +1,10 @@
 # Demonstration of Bayesian updating workflow: translate a population-average model into a individual-specific model 
 
-## model: dyanmic model (system of ordinary differential equations) describing the hormone dynamics of three reproductive hormones during puberty in girls
+## Model 
 
-![Alt text](https://github.com/SoFiwork/GynCycle_newVersion/blob/main/Flowchart.jpg)
+dyanmic model (system of ordinary differential equations) describing the hormone dynamics of three reproductive hormones during puberty in girls
+
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/PubertyFlow.jpg)
 
 ## workflow presented in the corresponding article 
 1. calibration of population-average model
