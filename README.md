@@ -20,11 +20,6 @@ dyanmic model (system of ordinary differential equations) describing the hormone
 
 ![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/BaysianWorkflow.pdf)
 
-## Description 
-Mathematical model of the female menstrual cycle that couples the dynamics between follicles and hormones.
-
-![Alt text](https://github.com/SoFiwork/GynCycle_newVersion/blob/main/Flowchart.jpg)
-
 ## Installation
 The model is written in Python 3. 
 
