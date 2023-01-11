@@ -4,7 +4,7 @@
 
 dyanmic model (system of ordinary differential equations) describing the hormone dynamics of three reproductive hormones during puberty in girls
 
-![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.jpg)
+![Alt text](https://github.com/SoFiwork/CrossSectional2individual/blob/main/PubertyFlow.pdf)
 
 ## workflow presented in the corresponding article 
 1. calibration of population-average model
