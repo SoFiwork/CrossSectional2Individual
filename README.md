@@ -58,6 +58,8 @@ Steps:
 Figure 4, 5, 7, A1b from Fischer-Holzhausen et al. 2023 can be reproduced with this file. 
 Note that results will be comparable, but details might differ because the methods are sampling based (a seed has not been set). 
 
+OptimizationResult.pkg are the MLE results used for the figure in Fischer-Holzhausen et al. 2023
+
 ### Pipeline_IndividualModel_SimulatedIndividual.ipynb 
 
 implentation of the work steps illustrated under ``Updating to an individual-specific model''
